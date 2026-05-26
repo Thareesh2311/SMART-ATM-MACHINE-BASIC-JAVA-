@@ -24,15 +24,6 @@ Technologies Used
 Java
 Java Swing
 AWT Event Handling
-Features
-
-✅ User-Friendly GUI
-✅ Check Balance Functionality
-✅ Deposit Money
-✅ Withdraw Money
-✅ Insufficient Balance Validation
-✅ Exit System
-✅ Popup Message Dialogs
 
 Initial Balance
 ₹5000
